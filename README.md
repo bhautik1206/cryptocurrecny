@@ -1,9 +1,9 @@
-# Cryptocurrency Website
+# Cryptocurrency
 This website shows real-time prices of cryptocurrencies using the Rapid API.
 
 ![Web's preview](./public/image.png)
 
-Live: [**https://nhattm-react-cryptocurrency.netlify.app**](https://nhattm-react-cryptocurrency.netlify.app)
+Live: currently working [****]()
 
 ## Technologies Used
 - ReactJS 18.1.0
