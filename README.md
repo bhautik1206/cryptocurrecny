@@ -3,7 +3,7 @@ This website shows real-time prices of cryptocurrencies using the Rapid API.
 
 ![Web's preview](./public/image.png)
 
-Live: currently working [****]()
+Live: currently working [**cryptocurrency-stats**](https://main--cryptocurrency-stats.netlify.app/)
 
 ## Technologies Used
 - ReactJS 18.1.0
